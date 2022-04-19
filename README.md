@@ -1,9 +1,9 @@
 # Everything Webflow
-- [Webflow MasterClass (Webflow 大師班) - Webflow 線上課程, 學習資源](https://github.com/tentenco/webflow/tree/main/masterclass)
+- [Webflow MasterClass (Webflow 大師班)](https://github.com/tentenco/webflow/tree/main/masterclass)
 - [Webflow 中文教學](https://www.youtube.com/channel/UCOi68ITxdtM5wvEUaSG_XvQ)
 - [Webflow Learning](https://tenten.co/learning/)
 
-### Webflow 線上學習 Youtube Video (Webflow 初階班)
+### Webflow 線上學習 Youtube Video (Webflow 初階班 - 線上課程, 學習資源)
 * [字型字體如何在 Webflow & Figma 設置？｜Tenten](https://www.youtube.com/watch?v=N0_WxqMj_sY)
 * [設計師、Agency 都是怎麼自我介紹？10 個超棒的網站設計案例分享｜Tenten](https://www.youtube.com/watch?v=MfFsAxGPh4c)
 * [UX 設計工作產業趨勢｜2022 UX 到底在做什麼｜Tenten](https://www.youtube.com/watch?v=HfWtbb2P5fk)
