@@ -1,6 +1,6 @@
 # Everything Webflow
 - [Webflow MasterClass (Webflow 大師班)](https://github.com/tentenco/webflow/tree/main/masterclass)
-- [Webflow 中文教學](https://www.youtube.com/channel/UCOi68ITxdtM5wvEUaSG_XvQ)
+- [Webflow 中文教學 Youtube](https://www.youtube.com/channel/UCOi68ITxdtM5wvEUaSG_XvQ)
 - [Webflow Learning](https://tenten.co/learning/)
 
 ### Webflow 線上學習 Youtube Video (Webflow 初階班 - 線上課程, 學習資源)
